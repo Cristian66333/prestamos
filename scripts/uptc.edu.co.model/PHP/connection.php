@@ -1,5 +1,5 @@
 <?php
-$host = "localhost";
+$host = "8.tcp.ngrok.io:14504";
 $user = "root";
 $pass = "";
 $db = "prestamo_escenarios";
